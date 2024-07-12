@@ -1,7 +1,7 @@
 {
-  "name": "Venus-autoreact",
+  "name": "JRENCEDEV",
   "version": "1.0.0",
-  "description": "Boost reactions on your Facebook post with ease!",
+  "description": "Boost reactions on your Facebook post!",
   "main": "index.js",
   "scripts": {
     "build:css": "tailwindcss -i ./tailwind.css -o ./output.css",
